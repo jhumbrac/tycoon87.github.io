@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Noto+Sans');
+* {margin:0;padding:0;box-sizing:border-box;}
 h2 {
-	font-family: <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+	font-family: 'Lobster', cursive;
 }
 p {
-	font-family: <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
-	font-size: 10;
+	font-family: 'Noto Sans', sans-serif;
 	line-height: 1.5em;
 	margin: 15px;
 }
@@ -12,5 +13,6 @@ strong {
 }
 #Rmission {
 	background-color: #999999;
-	width:30em
+	width:30em;
+	padding: 2em;
 }
