@@ -1,0 +1,16 @@
+h2 {
+	font-family: <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+}
+p {
+	font-family: <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+	font-size: 10;
+	line-height: 1.5em;
+	margin: 15px;
+}
+strong {
+	font-variant: small-caps;
+}
+#Rmisson {
+	background-color: #999999;
+	width: 160px
+}
